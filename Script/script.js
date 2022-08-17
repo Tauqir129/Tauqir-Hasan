@@ -7,5 +7,6 @@ function size{
 "Screen Width: " + screen.width;
     document.getElementById("demo1").innerHTML =
 "Screen Width: " + screen.width;
+    console.log("size masured!");
 
 }
